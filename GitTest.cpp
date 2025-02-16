@@ -18,6 +18,7 @@ int main()
 	int ft1c2;
 
 	cout << "b2c1";
+	cout << "b2c2";
 
 	return 0;
 }
