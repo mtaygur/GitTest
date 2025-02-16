@@ -15,5 +15,6 @@ int main()
 	double ft2c2;
 	double ft2c3;
 	int ft1c1;
+	int ft1c2;
 	return 0;
 }
