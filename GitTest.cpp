@@ -8,7 +8,11 @@ using namespace std;
 int main()
 {
 	cout << "Hello CMake." << endl;
+
+
+
 	double ft2c1;
 	double ft2c2;
+	double ft2c3;
 	return 0;
 }
