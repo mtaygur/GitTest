@@ -7,9 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "b1c1" << endl;
-	cout << "b1c2" << endl;
-	cout << "b1c3" << endl;
+
 
 
 	double ft2c1;
