@@ -14,7 +14,6 @@ int main()
 
 	double ft2c1;
 	double ft2c2;
-	int ft1c1;
 
 	return 0;
 }
