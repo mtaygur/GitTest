@@ -9,6 +9,7 @@ int main()
 {
 	cout << "Hello CMake." << endl;
 	cout << "b1c1" << endl;
+	cout << "b1c2" << endl;
 
 
 	double ft2c1;
